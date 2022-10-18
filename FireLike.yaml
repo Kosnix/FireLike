@@ -4,3 +4,11 @@ Packages:
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-17
     PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.0.0/FireLike.1.0.0.pthm
+  - Version: 1.0.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-18
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.1.0/FireLike.1.1.0.pthm
+    Changelog:
+      - Added a button to display games in a grid
+      - The notification icon is now orange
+      - The parameter icon has been moved
