@@ -21,3 +21,9 @@ Packages:
       - Installation status is now indicated by icons
       - The parameter button has found its place
       - Other slight changes
+  - Version: 1.1.2
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-23
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.1.2/FireLike.1.1.2.pthm
+    Changelog:
+      - SuccessStory support
