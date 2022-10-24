@@ -27,3 +27,7 @@ Packages:
     PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.1.2/FireLike.1.1.2.pthm
     Changelog:
       - SuccessStory support
+  - Version: 1.1.3
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-24
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.1.3/FireLike.1.1.3.pthm
