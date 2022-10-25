@@ -31,3 +31,11 @@ Packages:
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-24
     PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.1.3/FireLike.1.1.3.pthm
+  - Version: 1.2.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-25
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.0/FireLike.1.2.0.pthm
+    Changelog:
+      - Support for ExtraMetaData logos (Replaced by icons if missing)
+      - Supported ExtraMetaData trailers
+      - New buttons
