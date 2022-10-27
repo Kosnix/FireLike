@@ -39,3 +39,9 @@ Packages:
       - Support for ExtraMetaData logos (Replaced by icons if missing)
       - Supported ExtraMetaData trailers
       - New buttons
+  - Version: 1.2.1
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-27
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.1/FireLike.1.2.1.pthm
+    Changelog:
+      - fixed a bug that prevented displaying the focus on the notification button
