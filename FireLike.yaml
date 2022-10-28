@@ -45,3 +45,9 @@ Packages:
     PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.1/FireLike.1.2.1.pthm
     Changelog:
       - fixed a bug that prevented displaying the focus on the notification button
+  - Version: 1.2.2
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-28
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.2/FireLike.1.2.2.pthm
+    Changelog:
+      - Fixed incorrect implementation of extrametadata logos
