@@ -57,3 +57,8 @@ Packages:
     PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.3/FireLike.1.2.3.pthm
     Changelog:
       - New filters
+
+  - Version: 1.2.4
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2024-02-04
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.3/FireLike.1.2.4.pthm
