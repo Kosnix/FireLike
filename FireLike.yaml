@@ -68,3 +68,7 @@ Packages:
     Changelog:
       - The new filters react again with the triggers without being focused
       - Backgrounds in 16/9 format now adapt better (the Steam format remains the most suitable)
+  - Version: 1.2.6
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2024-02-15
+    PackageUrl: https://github.com/Kosnix/FireLike/releases/download/1.2.6/FireLike.1.2.6.pthm
